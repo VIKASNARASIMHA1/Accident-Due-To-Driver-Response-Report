@@ -23,6 +23,22 @@ Government of all the states of India have introduced new policies to avoid acci
 
 •	Provide **buttons** to move around the pages of the report and also provide a button that points to the dataset used.
 
+## Preview 1:
+
+![Preview_1](Picture1.png)
+
+## Preview 2:
+
+![Preview_2](Picture2.png)
+
+## Preview 3:
+
+![Preview_3](Picture3.png)
+
+## Preview 4:
+
+![Preview_4](Picture4.png)
+
 ## Process:
 
 •	Removed all the **unnecessary columns** from the dataset that is derived from a government website.
