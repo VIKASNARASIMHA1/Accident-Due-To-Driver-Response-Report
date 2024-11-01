@@ -3,6 +3,8 @@
 
 Government of all the states of India have introduced new policies to avoid accident due to driver response from the year 2023. **This is a comparative study of how the number of accidents due to driver response has trended from 2022 to 2023** that is when no policies were in place to when policies have been established to avoid accidents due to driver response.
 
+Download the RAR file for all the details.
+
 ## Requirements:
 
 •	Create a **comparative report** for accident due to driver response for the year 2022 and 2023.
